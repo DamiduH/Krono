@@ -69,6 +69,7 @@ export async function POST(request: NextRequest) {
         completed: completedFinal,
         seconds_watched: secondsWatched,
         completed_at: completedAt,
+        updated_at: new Date().toISOString(),
       },
       { onConflict: "user_id,module_id" }
     )
