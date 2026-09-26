@@ -14,13 +14,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Life OS",
+  title: "Krono",
   description: "Domains, projects, habits and courses in one place.",
-  applicationName: "Life OS",
+  applicationName: "Krono",
   appleWebApp: {
     capable: true,
     statusBarStyle: "black-translucent",
-    title: "Life OS",
+    title: "Krono",
   },
 };
 

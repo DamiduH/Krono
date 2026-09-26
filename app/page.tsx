@@ -9,7 +9,7 @@ export default function Home() {
         <header className="flex items-baseline justify-between gap-4">
           <div>
             <h1 className="text-3xl font-bold tracking-tight text-white">
-              Life OS
+              Krono
             </h1>
             <p className="mt-1 text-sm text-gray-400">
               Domains, projects, habits and courses in one place.

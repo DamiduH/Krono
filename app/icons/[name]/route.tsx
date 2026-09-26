@@ -44,7 +44,7 @@ export async function GET(
             letterSpacing: -2,
           }}
         >
-          OS
+          K
         </div>
       </div>
     ),

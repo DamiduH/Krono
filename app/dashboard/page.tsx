@@ -29,7 +29,7 @@ export default async function Page() {
             href="/"
             className="shrink-0 text-sm text-gray-400 transition hover:text-emerald-400"
           >
-            &larr; Life OS home
+            &larr; Krono home
           </Link>
         </header>
 

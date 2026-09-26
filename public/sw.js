@@ -1,5 +1,5 @@
-/* Life OS service worker */
-const CACHE = "lifeos-v1";
+/* Krono service worker */
+const CACHE = "krono-v1";
 const APP_SHELL = ["/", "/dashboard", "/icons/192", "/icons/512"];
 
 self.addEventListener("install", (event) => {
